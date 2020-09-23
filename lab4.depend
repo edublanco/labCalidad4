@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600854297 source:d:\edublanc\7mosemestrecarrera\calidadlab\lab3\lab4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<iomanip>
+
